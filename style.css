@@ -1,0 +1,55 @@
+.email banner {
+  
+}
+
+
+
+.spnsr-banner {
+  background-color: #363636;
+  border: 7px solid #038088; 
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin-bottom: 10px;
+  max-width: 75%;
+  margin: auto;
+  justfy-content: center;
+}
+
+.spnsr-banner-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 50%;
+  min-width: 50%;
+  height:auto;
+}
+
+.spnsr-text1 {
+  font-family: "Play", sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+  text-transform: uppercase;  
+  text-align: center;
+  color: #2A8A54;
+}
+
+
+.spnsr-logo {
+  
+}
+
+.spnsr-text2 {
+  font-family: "Play", sans-serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 15px;
+  color: white;
+}
+
+.link  {
+  color: white;
+}
+
+.link:hover {
+  color: #DCB0EB;
+}
